@@ -7,7 +7,7 @@ An experienced hard-working Web developer specialized on front-end. Have high co
 ## About me
 
 I am a pretty active person. Love coding, working on my own open source projects, reading books, drawing and danceing.
-I have an MSc in Applied Mathematics from The Moscow Institute of Physics and Technology (https://mipt.ru/english/).
+I have an MSc in Applied Mathematics from [The Moscow Institute of Physics and Technology](https://mipt.ru/english/).
 Currently I work as a full-stack web developer at [Infotecs](http://www.infotecs.us/). I am an active opensource participator as well.
 Given the right opportunity I am willing to move pretty much anywhere.
 
