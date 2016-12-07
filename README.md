@@ -47,13 +47,13 @@ I am decent at:
 
 [Roguelike Dungeon Crawler Game](http://codepen.io/sufflavus/full/WxeLQe/) is a self-study project that is made using React, jQuery, SASS, ES6.
 
-![RoguelikeDungeonCrawlerGame](https://github.com/Sufflavus/CodepenExamples/raw/master/images/20_RoguelikeDungeonCrawlerGame.png)
+![RoguelikeDungeonCrawlerGame](https://github.com/Sufflavus/Portfolio/blob/master/images/04_RoguelikeDungeonCrawlerGame.png)
 
 ### Game of Life
 
 [Game of Life](http://codepen.io/sufflavus/full/grVeEE/) is a self-study implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). that is made using React, jQuery, SASS, ES6.
 
-![GameOfLife](https://github.com/Sufflavus/CodepenExamples/blob/master/images/19_GameOfLife.png)
+![GameOfLife](https://github.com/Sufflavus/Portfolio/blob/master/images/05_GameOfLife.png)
 
 ### Mint
 
@@ -61,7 +61,7 @@ I am decent at:
 
 ### Colibri
 
-[Colibri](https://github.com/Sufflavus/Colibri) is an open source project which contains JavaScript custom extensions for !!! types. Colibri is written in pure JS,  100% covered with tests (Jasmine) and fully documented.
+[Colibri](https://github.com/Sufflavus/Colibri) is an open source project which contains JavaScript custom extensions for built-in types. Colibri is written in pure JS,  100% covered with tests (Jasmine) and fully documented.
 
 ## Education 
 
