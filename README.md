@@ -20,7 +20,8 @@ I am decent at:
 * SQL, MongoDb
 * Jasmine, xUnit
 * ReSharper
-* BEM notation, SMACSS 
+* BEM notation, SMACSS
+* OWASP 
 
 ## Recent Projects
 
