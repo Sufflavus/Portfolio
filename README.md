@@ -52,7 +52,7 @@ I am decent at:
 
 ### Game of Life
 
-[Game of Life](http://codepen.io/sufflavus/full/grVeEE/) is a self-study implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). that is made using React, jQuery, SASS, ES6.
+[Game of Life](http://codepen.io/sufflavus/full/grVeEE/) is a self-study implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that is made using React, jQuery, SASS, ES6.
 
 ![GameOfLife](https://github.com/Sufflavus/Portfolio/blob/master/images/05_GameOfLife.png)
 
