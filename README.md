@@ -26,7 +26,7 @@ I am decent at:
 ## Recent Projects
 
 ### GeekData 
-[GeekData](http://geekdata.io/) is a open source project which visualizes technologies, courses and geeks. My role in the project is a front-end development ([sigmajs](http://sigmajs.org/), JavaScript, CSS, jQury).
+[GeekData](http://perfco.github.io/GeekData/Source/Web/) is a open source project which visualizes technologies, courses and geeks. My role in the project is a front-end development ([sigmajs](http://sigmajs.org/), JavaScript, CSS, jQury).
 
 ![01_GeekData_1](https://github.com/Sufflavus/Portfolio/blob/master/images/01_GeekData_1.png)
 ![02_GeekData_2](https://github.com/Sufflavus/Portfolio/blob/master/images/01_GeekData_2.png)
