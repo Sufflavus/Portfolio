@@ -26,7 +26,7 @@ I am decent at:
 ## Recent Projects
 
 ### GeekData 
-[GeekData](http://perfco.github.io/GeekData/Source/Web/) is a open source project which visualizes technologies, courses and geeks. My role in the project is a front-end development ([sigmajs](http://sigmajs.org/), JavaScript, CSS, jQury).
+[GeekData](https://perfco.github.io/GeekData/Source/Web/) is a open source project which visualizes technologies, courses and geeks. My role in the project is a front-end development ([sigmajs](http://sigmajs.org/), JavaScript, CSS, jQury).
 
 ![01_GeekData_1](https://github.com/Sufflavus/Portfolio/blob/master/images/01_GeekData_1.png)
 ![02_GeekData_2](https://github.com/Sufflavus/Portfolio/blob/master/images/01_GeekData_2.png)
@@ -34,25 +34,25 @@ I am decent at:
 
 ### Heat Map
 
-[Heat Map](http://codepen.io/sufflavus/full/oxRJRb/) is a self-study project that visualises data as a heat map. Data visualization is made using d3.js.
+[Heat Map](https://codepen.io/sufflavus/full/oxRJRb/) is a self-study project that visualises data as a heat map. Data visualization is made using d3.js.
 
 ![HeatMap](https://github.com/Sufflavus/CodepenExamples/blob/master/images/13_HeatMap.png)
 
 ### Meteorite Landing
 
-[Meteorite Landing](http://codepen.io/sufflavus/full/pyXNwY/) is a self-study project that visualises data across the Globe. Data visualization is made using d3.js.
+[Meteorite Landing](https://codepen.io/sufflavus/full/pyXNwY/) is a self-study project that visualises data across the Globe. Data visualization is made using d3.js.
 
 ![MeteoriteLanding](https://github.com/Sufflavus/CodepenExamples/blob/master/images/14_MeteoriteLanding.png)
 
 ### Roguelike Dungeon Crawler Game
 
-[Roguelike Dungeon Crawler Game](http://codepen.io/sufflavus/full/WxeLQe/) is a self-study project that is made using React, jQuery, SASS, ES6.
+[Roguelike Dungeon Crawler Game](https://codepen.io/sufflavus/full/WxeLQe/) is a self-study project that is made using React, jQuery, SASS, ES6.
 
 ![RoguelikeDungeonCrawlerGame](https://github.com/Sufflavus/Portfolio/blob/master/images/04_RoguelikeDungeonCrawlerGame.png)
 
 ### Game of Life
 
-[Game of Life](http://codepen.io/sufflavus/full/grVeEE/) is a self-study implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that is made using React, jQuery, SASS, ES6.
+[Game of Life](https://codepen.io/sufflavus/full/grVeEE/) is a self-study implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that is made using React, jQuery, SASS, ES6.
 
 ![GameOfLife](https://github.com/Sufflavus/Portfolio/blob/master/images/05_GameOfLife.png)
 
@@ -74,4 +74,4 @@ I am decent at:
 * Email: [tatashat@gmail.com](mailto:tatashat@gmail.com)
 * LinkedIn: [Tatiana Shatilova](https://us.linkedin.com/pub/tatiana-shatilova/81/94/260)
 * GitHub: [@Sufflavus](https://github.com/Sufflavus)
-* Codepen: [@sufflavus](http://codepen.io/sufflavus)
+* Codepen: [@sufflavus](https://codepen.io/sufflavus)
